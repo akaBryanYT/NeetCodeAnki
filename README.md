@@ -6,6 +6,7 @@ The entire NeetCode150 Deck in [Anki Srs](https://apps.ankiweb.net/) with each t
 * Download deck and import into Anki.
 * Install add-ons and copy settings over if they aren't fully copied from below.
 * Only use Good or Again (pass/fail) if you want to use LowKey Anki settings (recommended).
+* If you are a beginner, the deck moves in order on the NeetCode roadmap. The order is listed down below. Study 1-2 Data Structures at a time until you get to the next data structure on the deck.
 * Study daily and finish reviews and new cards as given. (You may set new cards/day to 1 or 2 if its too overwhelming at first to build the habit).
 
 ## Regular Card Structure
