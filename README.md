@@ -1,8 +1,9 @@
 # NeetCodeAnki
-The entire NeetCode150 Deck in [Anki Srs](https://apps.ankiweb.net/) with each topic as a subdeck. Flashcards and decks are in order with V3 Scheduling enabled and LowKey Anki settings. Courtesy to [ayorgo](https://github.com/ayorgo/) for scraping this deck, original deck <sup>[[1]](#1)</sup> and settings are in his [repo](https://github.com/ayorgo/leetcode-neetcode-anki). There are Regular Cards (cards for questions without needing LeetCode Premium), and Premium Cards (cards for questions that require LeetCode normally, but is bypassed through [LintCode](https://www.lintcode.com))
+The entire NeetCode150 Roadmap in [Anki Srs](https://apps.ankiweb.net/) with each topic as a subdeck. Flashcards and decks are in order with V3 Scheduling enabled and LowKey Anki settings. Courtesy to [ayorgo](https://github.com/ayorgo/) for scraping this deck, original deck <sup>[[1]](#1)</sup> and settings are in his [repo](https://github.com/ayorgo/leetcode-neetcode-anki). There are Regular Cards (cards for questions without needing LeetCode Premium), and Premium Cards (cards for questions that require LeetCode normally, but is bypassed through [LintCode](https://www.lintcode.com))
 
 ## How to Use
 * Install Anki and do research about SRS (likely on youtube) and what it is.
+* After having made an ankiweb account and Anki profile, download the NeetCode150.apkg and run it, it will automatically install into Anki.
 * Download deck and import into Anki.
 * Install add-ons and copy settings over if they aren't fully copied from below.
 * Only use Good or Again (pass/fail) if you want to use LowKey Anki settings (recommended).
