@@ -59,6 +59,7 @@ Here is where you can get these add-ons:
 
 ### Advanced
 ![Scheduling timer](anki-settings/anki-advanced.png)
+
 Here is the script for the advanced settings if it isn't already there. Taken from <sup>[[2]](#2)</sup> for Lowkey Anki.
 ```
 /*
