@@ -1,0 +1,43 @@
+/*
+ * New card:
+ * 	Fail: enter the learning sequence.
+ * 	Pass: skip the learning sequence and use the ‘easy interval’ setting.
+ */
+if (states.current.normal?.new ||
+        states.current.filtered?.rescheduling.originalState.new) {
+        states.hard = states.easy;
+        states.good = states.easy;
+}
+
+/*
+ * (Re)learning card:
+ * 	Fail: reset the (re)learning sequence.
+ * 	Pass: progress in the (re)learning sequence.
+ */
+else if (states.current.normal?.learning ||
+        states.current.normal?.relearning ||
+        states.current.filtered?.rescheduling.originalState.learning ||
+        states.current.filtered?.rescheduling.originalState.relearning) {
+        states.hard = states.good;
+        states.easy = states.good;
+}
+
+/*
+ * Review card:
+ * 	Fail: enter the relearning sequence with no penalty.
+ * 	Pass: multiply the interval by the constant ease factor.
+*/
+// Code for normal review
+else if (states.current.normal?.review) {
+        states.hard = states.good;
+        states.easy = states.good;
+        states.again.normal.relearning.review.easeFactor =
+                states.current.normal.review.easeFactor;
+}
+// Code for filtered decks
+else if (states.current.filtered?.rescheduling.originalState.review) {
+        states.hard = states.good;
+        states.easy = states.good;
+        states.again.filtered.rescheduling.originalState.relearning.review.easeFactor =
+                states.current.filtered.rescheduling.originalState.review.easeFactor;
+}
