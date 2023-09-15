@@ -38,6 +38,8 @@ Each premium (paid) card contains the following fields. Premium cards automatica
 ### Preferences
 ![Anki_Review_Preferences](anki-settings/anki-review-preferences.png)
 
+Note: Make sure "hard" and "easy" are not binded to a key if you are using LowKey Anki (recommended).
+
 ### Add-ons
 ![Anki_AddOns-List](anki-settings/anki-add-ons-list.png)
 
