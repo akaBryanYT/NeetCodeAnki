@@ -1,5 +1,5 @@
 # NeetCodeAnki
-The entire NeetCode150 Roadmap in [Anki Srs](https://apps.ankiweb.net/) with each topic as a subdeck. Flashcards and decks are in order with V3 Scheduling enabled and LowKey Anki settings. Courtesy to [ayorgo](https://github.com/ayorgo/) for scraping this deck, original deck <sup>[[1]](#1)</sup> and settings are in his [repo](https://github.com/ayorgo/leetcode-neetcode-anki). There are Regular Cards (cards for questions without needing LeetCode Premium), and Premium Cards (cards for questions that require LeetCode normally, but is bypassed through [LintCode](https://www.lintcode.com))
+The entire NeetCode150 Roadmap in [Anki SRS](https://apps.ankiweb.net/) with each topic as a subdeck. Flashcards and decks are in order with V3 Scheduling enabled and LowKey Anki settings. Courtesy to [ayorgo](https://github.com/ayorgo/) for scraping this deck, original deck <sup>[[1]](#1)</sup> and settings are in his [repo](https://github.com/ayorgo/leetcode-neetcode-anki). There are Regular Cards (cards for questions without needing LeetCode Premium), and Premium Cards (cards for questions that require LeetCode normally, but is bypassed through [LintCode](https://www.lintcode.com))
 
 ## How to Use
 * Install Anki and do research about SRS (likely on youtube) and what it is.
@@ -9,6 +9,8 @@ The entire NeetCode150 Roadmap in [Anki Srs](https://apps.ankiweb.net/) with eac
 * Only use Good or Again (pass/fail) if you want to use LowKey Anki settings (recommended).
 * If you are a beginner, the deck moves in order on the NeetCode roadmap. The order is listed down below. Study 1-2 Data Structures at a time until you get to the next data structure on the deck.
 * Study daily and finish reviews and new cards as given. (You may set new cards/day to 1 or 2 if its too overwhelming at first to build the habit).
+
+* Note: I would recommend studying youtube videos in your programming language for the current new section you are studying, and the next one. If you want you may also study the previous section concurrently. Never study more than 3 data structures at a time, so as to not overwhelm yourself. Anki handles the pattern recognition and review for you mainly.
 
 ## Regular Card Structure
 Front                            |Hint                           |Back
