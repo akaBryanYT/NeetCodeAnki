@@ -10,7 +10,7 @@ The entire NeetCode150 Roadmap in [Anki SRS](https://apps.ankiweb.net/) with eac
 * If you are a beginner, the deck moves in order on the NeetCode roadmap. The order is listed down below. Study 1-2 Data Structures at a time until you get to the next data structure on the deck.
 * Study daily and finish reviews and new cards as given. (You may set new cards/day to 1 or 2 if its too overwhelming at first to build the habit).
 
-* Note: I would recommend studying youtube videos in your programming language for the current new section you are studying, and the next one. If you want you may also study the previous section concurrently. Never study more than 3 data structures at a time, so as to not overwhelm yourself. Anki handles the pattern recognition and review for you mainly.
+* Note: I would recommend studying youtube videos in your programming language for the current new section you are studying, and the next one in sequence. If you want you may also study the previous section concurrently. Never study more than 3 data structures at a time, so as to not overwhelm yourself. Anki handles the pattern recognition and review for you mainly.
 
 ## Regular Card Structure
 Front                            |Hint                           |Back
