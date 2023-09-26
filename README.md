@@ -2,7 +2,7 @@
 The entire NeetCode150 Roadmap in [Anki SRS](https://apps.ankiweb.net/) with each topic as a subdeck. Flashcards and decks are in order with V3 Scheduling enabled and LowKey Anki settings. Courtesy to [ayorgo](https://github.com/ayorgo/) for scraping this deck, original deck <sup>[[1]](#1)</sup> and settings are in his [repo](https://github.com/ayorgo/leetcode-neetcode-anki). There are Regular Cards (cards for questions without needing LeetCode Premium), and Premium Cards (cards for questions that require LeetCode normally, but is bypassed through [LintCode](https://www.lintcode.com))
 
 ## Quick Summary: 
-Watch the quick TikTok summary: [here](https://www.tiktok.com/@realakabryan/video/7281506485933280554?is_from_webapp=1&sender_device=pc&web_id=7225075162654475818)
+Watch the quick TikTok summary [here](https://www.tiktok.com/@realakabryan/video/7281506485933280554?is_from_webapp=1&sender_device=pc&web_id=7225075162654475818)
 
 ## How to Use
 * Install Anki and do research about SRS (likely on youtube) and what it is. (Check out [ncase](https://ncase.me/remember/) to learn about SRS)
